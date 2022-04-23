@@ -35,5 +35,5 @@ The purpose of this project is to analyze Amazon reviews written by members of t
   <img width="838" alt="Percentage of Unpaid 5 Star non-Vine Reviews" src="https://user-images.githubusercontent.com/96451672/164933883-3cdcbaa3-6014-43b1-ba41-2c633b595792.png">
 
 ## Summary
-The question arises with some reviews being paid through money to Amazon and free products to consumers through the Vine program, 'is there bias in Vine reviews?'. Among the video DVD reviews, there are a limited number of Vine reviews with only 49 out of 151,449. W
+The question arises with some reviews being paid through money to Amazon and free products to consumers through the Vine program, 'is there bias in Vine reviews?'. Among the video DVD reviews, there are a limited number of Vine reviews with only 49 out of 151,449. Out of the 49 reviews only 9 reviews were 5 stars making only 18.37% of them 5 stars. With the minimal amount of Vine reviews, it's hard to conclusively determine whether there definitively is bias in the reviews however with only 18% being 5 stars it's fair to conclude that the reviews are not biased.
 
