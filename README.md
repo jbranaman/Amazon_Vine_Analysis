@@ -26,3 +26,13 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 
 * **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
+  18.37 (rounded) percent of Vine reviews (paid) were 5 stars.
+  
+  <img width="796" alt="Percentage of Paid 5 Star Vine Reviews" src="https://user-images.githubusercontent.com/96451672/164933839-46ee0d9f-4e43-4083-8af5-103351181b6b.png">
+  
+  51.56 (rounded) percent of non-Vine reviews (unpaid) were 5 stars.
+  
+  <img width="838" alt="Percentage of Unpaid 5 Star non-Vine Reviews" src="https://user-images.githubusercontent.com/96451672/164933883-3cdcbaa3-6014-43b1-ba41-2c633b595792.png">
+
+
+
