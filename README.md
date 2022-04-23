@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 ## Overview of Project
 ### Purpose
-The purpose of this project is to analyze Amazon reviews written by members of the paid Amazon Vine program. Access was given to approximately 50 datasets containing reviews of specific products to select from. Reviews of video DVDs was selected for analyis.
+The purpose of this project is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. Access was given to approximately 50 datasets containing reviews of specific products to select from. Reviews of video DVDs was selected for analyis.
 
 ## Results
 * **How many Vine reviews and non-Vine reviews were there?**
@@ -34,5 +34,6 @@ The purpose of this project is to analyze Amazon reviews written by members of t
   
   <img width="838" alt="Percentage of Unpaid 5 Star non-Vine Reviews" src="https://user-images.githubusercontent.com/96451672/164933883-3cdcbaa3-6014-43b1-ba41-2c633b595792.png">
 
-
+## Summary
+The question arises with some reviews being paid through money to Amazon and free products to consumers through the Vine program, 'is there bias in Vine reviews?'. Among the video DVD reviews, there are a limited number of Vine reviews with only 49 out of 151,449. W
 
