@@ -37,3 +37,5 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 ## Summary
 The question arises with some reviews being paid through money to Amazon and free products to consumers through the Vine program, 'is there bias in Vine reviews?'. Among the video DVD reviews, there are a limited number of Vine reviews with only 49 out of 151,449. Out of the 49 reviews only 9 reviews were 5 stars making only 18.37% of them 5 stars. With the minimal amount of Vine reviews, it's hard to conclusively determine whether there definitively is bias in the reviews however with only 18% being 5 stars it's fair to conclude that the reviews are not biased.
 
+An additional analysis to examine the possible bias in Vine reviews is to analyze the number of total votes against helpful votes for Vine reviews. This would allow determining the number of unhelpful votes by subtracting the helpful votes from the total votes. Then a percentage of unhelpful votes from total votes could be determined. If the percentage of unhelpful votes is low then it would help support the conclusion that the Vine reviews are not biased since they are not perceived as unhelpful overall.
+
